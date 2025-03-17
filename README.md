@@ -5,7 +5,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1> <hr>
 
-My name is Fernando Oliveira do Nascimento. I work as a Student at Instituto Federal da Bahia.
+My name is Fernando Oliveira do Nascimento. I am a student at Instituto Federal da Bahia.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Nnando0220&repo=Nnando0220&countColorcountColor)
 
