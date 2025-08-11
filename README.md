@@ -1,31 +1,52 @@
+# 👋 Hi, I'm Fernando Oliveira do Nascimento
 
+🎯 **Software Developer | Back-End Enthusiast | Continuous Learner**
 
+💻 I have over 2 years of experience in software development, with strong skills in:
+- **Languages:** Python, PHP, Java, C, JavaScript  
+- **Frameworks:** Django Rest Framework, Laravel, Node.js/Express  
+- **Databases:** PostgreSQL, MySQL, MongoDB, SQLite  
+- **Tools:** Git/GitHub, Azure, Prisma ORM
 
+📚 **Currently:**  
+- Studying **Information Systems** at IFBA  
+- Working as a **Back-End Developer** at Cepedi | RH de Favela  
+- Building scalable RESTful APIs, integrating databases, and applying Agile (Scrum) methods  
 
+🚀 **Projects Highlight:**
+- **[Resource Scheduling API](https://github.com/Nnando0220/agendamento-recurso)** – Node.js + Prisma ORM + MongoDB
+- **[Photo Posting Social Network](https://github.com/Nnando0220/Web-Animal)** – Laravel + Azure Storage + MySQL
+- **[Library Management System](https://github.com/Nnando0220/biblioteca-django)** – Django Rest Framework + SQLite
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1> <hr>
+📫 **Contact:**  
+- Email: nandooliveiranascimento@hotmail.com  
+- [LinkedIn](https://www.linkedin.com/in/fernando-oliveira-1486a7131/) | [GitHub](https://github.com/Nnando0220)  
 
-My name is Fernando Oliveira do Nascimento. I am a student at Instituto Federal da Bahia.
+---
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Nnando0220&repo=Nnando0220&countColorcountColor)
+## 🇧🇷 Sobre mim
 
-### Languages & Tools 🛠  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![C](https://img.shields.io/badge/-C-05122A?style=flat&color=green)&nbsp;  
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&color=gray)&nbsp;![Github](https://img.shields.io/badge/-Github-05122A?style=flat&color=gray)&nbsp;  
+🎯 **Desenvolvedor de Software | Entusiasta Back-End | Aprendiz Contínuo**
 
+💻 Tenho mais de 2 anos de experiência em desenvolvimento de software, com conhecimentos sólidos em:
+- **Linguagens:** Python, PHP, Java, C, JavaScript  
+- **Frameworks:** Django Rest Framework, Laravel, Node.js/Express  
+- **Bancos de Dados:** PostgreSQL, MySQL, MongoDB, SQLite  
+- **Ferramentas:** Git/GitHub, Azure, Prisma ORM
 
-### Analytics ⚙️
+📚 **Atualmente:**  
+- Graduando em **Sistemas de Informação** no IFBA  
+- Atuo como **Desenvolvedor Back-End** no Cepedi | RH de Favela  
+- Desenvolvimento de APIs RESTful escaláveis, integração com bancos de dados e aplicação de metodologias ágeis (Scrum)  
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nnando0220&layout=compact&count_private=true)
+🚀 **Projetos em destaque:**
+- **[API de Agendamento de Recursos](https://github.com/Nnando0220/agendamento-recurso)** – Node.js + Prisma ORM + MongoDB
+- **[Rede Social de Postagem de Fotos](https://github.com/Nnando0220/Web-Animal)** – Laravel + Azure Storage + MySQL
+- **[Sistema de Gerenciamento de Biblioteca](https://github.com/Nnando0220/biblioteca-django)** – Django Rest Framework + SQLite
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=Nnando0220&count_private=true&show_icons=true)
+📫 **Contato:**  
+- Email: nandooliveiranascimento@hotmail.com  
+- [LinkedIn](https://www.linkedin.com/in/fernando-oliveira-1486a7131/) | [GitHub](https://github.com/Nnando0220)  
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Nnando0220&hide_border=true)
-
-### Let's connect? 🤝
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/fernando-oliveira-1486a7131/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
-</p>
+---
+⭐ *Sempre aprendendo e pronto para colaborar em projetos inovadores!*
